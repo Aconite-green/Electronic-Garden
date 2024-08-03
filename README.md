@@ -28,3 +28,12 @@
 2. Git Bash를 검색하고 설치가 완료되었는지 확인
 
 ## [ Repo 다운받기 ]
+
+* D: 드라이브에 "**garden**" 이라는 폴더 생성
+* garden 폴더 우클릭 후에 **gitbash**로 열기를 선택
+* 다음 명령어 입력
+
+```bash
+git clone https://github.com/Aconite-green/Electronic-Garden.git
+```
+
