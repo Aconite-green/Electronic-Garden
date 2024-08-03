@@ -108,5 +108,27 @@ pip install pyinstaller
 pyinstaller --onefile click.py
 ```
 
-* pyinstaller 명령을 실행한 후, dist 폴더가 생성되고 그 안에 click.exe 파일이 있을 것입니다. 이 파일이 바로 독립 실행 가능한 실행 파일입니다.
+* pyinstaller 명령을 실행한 후, dist 폴더가 생성되고 그 안에 click.exe 파일이 있을 것입니다.
+
+## [ 실행 파일 작업 스케줄링]
+
+* 윈도우 검색 창 -> 작업 스케줄러 검색 -> 실행
+	![스케줄링 설정 이미지 1](./image/schedule_1.JPG)
+* 이름 & 설명 사용자 임의로 입력
+    ![스케줄링 설정 이미지 2](./image/schedule_2.JPG)
+* "로그온 할때" 로 설정 => 컴퓨터가 사용자 로그인 화면에서는 클릭을 해도 의미가 없음
+	![스케줄링 설정 이미지 3](./image/schedule_3.JPG)
+* 프로그램 시작을 위한 작업 설정
+	![스케줄링 설정 이미지 4](./image/schedule_4.JPG)
+* d:/garden/dist 안에 있는 click 실행 파일로 설정
+	![스케줄링 설정 이미지 5](./image/schedule_5.JPG)
+* 마침
+    ![스케줄링 설정 이미지 6](./image/schedule_6.JPG)
+
+
+
+
+  
+  
+ 
 
