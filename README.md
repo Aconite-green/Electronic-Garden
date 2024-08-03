@@ -37,6 +37,8 @@
 git clone https://github.com/Aconite-green/Electronic-Garden.git
 ```
 
+* pycharm 으로 garden 폴더를 열기
+
 ## [ get_xy.py 실행]
 
 * 'a' 입력시 x, y 픽셀 좌표 값을 구함 
