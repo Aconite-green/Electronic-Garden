@@ -1,3 +1,4 @@
 # Git이 무시할 디렉터리
 dist/
 build/
+.idea/
